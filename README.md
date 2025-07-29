@@ -37,7 +37,7 @@ A fully responsive and visually appealing restaurant website built using WordPre
 
 
 ### ✉️ Contact Page
-![Contact](screenshots/contact.png)
+![Contact](screenshots/contactpage.png)
 
 
 ## 🔧 Installation & Setup
