@@ -42,11 +42,7 @@ _Add screenshots here (homepage, menu, contact page, etc.)_
 
 ---
 
-## 🌐 Live Demo (Optional)
 
-If hosted: [Live Site Link](#)
-
----
 
 ## 📁 Folder Structure
 
