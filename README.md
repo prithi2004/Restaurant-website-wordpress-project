@@ -29,15 +29,16 @@ A fully responsive and visually appealing restaurant website built using WordPre
 
 
 
-### 📋 Menu Page
-![Menu](screenshots/homepage.jpg)
+
+<h3>📋 Menu Page</h3>
+<img src="screenshots/homepahe.jpg" alt="Menu" width="600"/>
 
 ---
 
 
 
-### ✉️ Contact Page
-![Contact](screenshots/contactpage.png)
+<h3>✉️ Contact Page</h3>
+<img src="screenshots/contactpage.png" alt="Contact" width="600"/>
 
 
 ## 🔧 Installation & Setup
