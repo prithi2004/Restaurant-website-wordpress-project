@@ -30,7 +30,7 @@ A fully responsive and visually appealing restaurant website built using WordPre
 
 
 ### 📋 Menu Page
-![Menu](screenshots/menu)
+![Menu](screenshots/homepage.jpg)
 
 ---
 
