@@ -15,7 +15,6 @@ A fully responsive and visually appealing restaurant website built using WordPre
 - Mobile responsive design
 
 ---
-
 ## 🧩 Technologies Used
 
 - WordPress (Elementor + Theme customization)
@@ -62,7 +61,6 @@ restaurant-website-wordpress/
 │ └── plugins/
 ├── wp-config.php
 └── ...
-
 ---
 
 ## 📌 Tags
