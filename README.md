@@ -11,7 +11,6 @@ A fully responsive and visually appealing restaurant website built using WordPre
 - Contact form using plugin
 - SEO-optimized with Yoast SEO plugin
 - Mobile responsive design
-
 ---
 ## 🧩 Technologies Used
 
