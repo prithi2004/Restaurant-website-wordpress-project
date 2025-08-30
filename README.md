@@ -18,7 +18,6 @@ A fully responsive and visually appealing restaurant website built using WordPre
 - PHP, HTML5, CSS3
 - MySQL (via WordPress)
 - Plugins: Contact Form 7, Yoast SEO, WPForms
-
 ---
 
 ## 📸 Screenshots
