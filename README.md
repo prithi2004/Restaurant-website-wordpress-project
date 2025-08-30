@@ -3,7 +3,6 @@
 A fully responsive and visually appealing restaurant website built using WordPress. This project is ideal for restaurants, cafés, or food outlets looking to showcase their menu, gallery, and services online.
 ---
 ## 🚀 Features
-
 - Beautiful homepage with featured dishes
 - About Us and Contact pages
 - Integrated gallery section
