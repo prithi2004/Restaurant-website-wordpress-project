@@ -38,7 +38,6 @@ A fully responsive and visually appealing restaurant website built using WordPre
 4. Create a new database and import the SQL file (if provided).
 5. Open `localhost/restaurant-site` or your local domain.
 6. Customize via WordPress dashboard.
-
 ---
 
 ## 📁 Folder Structure
