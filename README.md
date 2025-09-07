@@ -44,8 +44,6 @@ A fully responsive and visually appealing restaurant website built using WordPre
 
 ---
 
-
-
 ## 📁 Folder Structure
 
 restaurant-website-wordpress/
