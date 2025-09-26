@@ -1,64 +1,31 @@
-# 🍽️ Restaurant Website - WordPress Project
+# 🍽️ Restaurant Website – WordPress Project  
 
-A fully responsive and visually appealing restaurant website built using WordPress. This project is ideal for restaurants, cafés, or food outlets looking to showcase their menu, gallery, and services online.
----
-## 🚀 Features
-- Beautiful homepage with featured dishes
-- About Us and Contact pages
-- Integrated gallery section
-- Menu listing with images and prices
-- Contact form using plugin
-- SEO-optimized with Yoast SEO plugin
-- Mobile responsive design
----
-## 🧩 Technologies Used
-
-- WordPress (Elementor + Theme customization)
-- PHP, HTML5, CSS3
-- MySQL (via WordPress)
-- Plugins: Contact Form 7, Yoast SEO, WPForms
----
-
-## 📸 Screenshots
-
-<h3>📋 Menu Page</h3>
-<img src="screenshots/homepage.jpg" alt="Menu" width="600"/>
+## 📌 Overview  
+The **Restaurant Website** is a WordPress project built to showcase a modern restaurant’s services, menu, and online presence.  
+It demonstrates skills in **WordPress theme customization, plugin usage, and PHP integration**.  
+The website is responsive, easy to navigate, and designed to improve the customer dining experience.  
 
 ---
 
-<h3>✉️ Contact Page</h3>
-<img src="screenshots/contactpage.png" alt="Contact" width="600"/>
-
-
-## 🔧 Installation & Setup
-
-1. Clone or download the ZIP of this repo.
-2. Install XAMPP / LocalWP or use any local server.
-3. Import the WordPress project into `/htdocs` or LocalWP.
-4. Create a new database and import the SQL file (if provided).
-5. Open `localhost/restaurant-site` or your local domain.
-6. Customize via WordPress dashboard.
----
-
-## 📁 Folder Structure
-
-restaurant-website-wordpress/
-├── wp-content/
-│ ├── themes/
-│ └── plugins/
-├── wp-config.php
-└── ...
----
-
-## 📌 Tags
-
-`#wordpress` `#restaurant` `#webdesign` `#php` `#responsive` `#elementor`
+## ✨ Features  
+- ✅ Home page with restaurant branding and welcome section.  
+- ✅ **Menu page** to display food categories and pricing.  
+- ✅ **Online reservation form** (contact/booking).  
+- ✅ Responsive design for desktop and mobile users.  
+- ✅ Integration of WordPress plugins for SEO and contact forms.  
+- ✅ Custom styling with CSS and minor PHP customizations.  
 
 ---
 
-## 📣 Author
-
-**Prithi Babu**  
-GitHub: [@prithi2004](https://github.com/prithi2004)
+## 🛠️ Tech Stack  
+- **CMS**: WordPress  
+- **Languages**: PHP, HTML, CSS, JavaScript  
+- **Database**: MySQL  
+- **Tools**: XAMPP / LocalWP, Elementor, Git  
 
 ---
+
+## ⚙️ Installation & Setup  
+1. Clone or download this repository:  
+   ```bash
+   git clone https://github.com/prithi2004/Restaurant-Website-WordPress-Project.git
