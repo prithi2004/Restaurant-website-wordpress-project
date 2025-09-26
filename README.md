@@ -26,6 +26,11 @@ The website is responsive, easy to navigate, and designed to improve the custome
 ---
 
 ## ⚙️ Installation & Setup  
-1. Clone or download this repository:  
+1. Clone or download this repository:
+2. Copy the plugin folder into your WordPress wp-content/plugins/ directory.
+
+3.Activate the plugin from the WordPress Dashboard → Plugins section.
+
+4.Use the shortcode [custom_events] on any page/post to display events.
    ```bash
    git clone https://github.com/prithi2004/Restaurant-Website-WordPress-Project.git
