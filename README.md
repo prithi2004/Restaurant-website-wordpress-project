@@ -34,3 +34,18 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/prithi2004/restaurant-website.git
    cd restaurant-website
+2.Set up a local WordPress environment using XAMPP / MAMP / LocalWP.
+
+3.Import the project:
+
+       Copy the files into your htdocs (XAMPP) or equivalent web directory.
+
+           Create a new MySQL database (e.g., restaurant_db).
+
+        Import the provided .sql file (if available).
+
+4.Configure wp-config.php with your database credentials.
+
+5.Start Apache & MySQL, then open in browser:
+
+http://localhost/restaurant-website
