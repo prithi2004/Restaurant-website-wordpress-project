@@ -57,8 +57,26 @@ restaurant-website/
 │── index.php     # Main entry point
 │── style.css     # Theme styling
 │── README.md     # Project documentation
+🤝 Contribution
 
+Contributions are welcome!
 
+Fork the repo
+
+Create a feature branch (feature-new-section)
+
+Submit a Pull Request
+📜 License
+
+This project is licensed under the MIT License – feel free to use and modify it.
+
+👩‍💻 Author
+
+Prithi Babu
+
+GitHub: @prithi2004
+
+LinkedIn: Prithi Babu
 
 
 
