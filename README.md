@@ -37,11 +37,8 @@ Follow these steps to run the project locally:
 2.Set up a local WordPress environment using XAMPP / MAMP / LocalWP.
 
 3.Import the project:
-
        Copy the files into your htdocs (XAMPP) or equivalent web directory.
-
            Create a new MySQL database (e.g., restaurant_db).
-
         Import the provided .sql file (if available).
 
 4.Configure wp-config.php with your database credentials.
@@ -49,3 +46,19 @@ Follow these steps to run the project locally:
 5.Start Apache & MySQL, then open in browser:
 
 http://localhost/restaurant-website
+📂 Folder Structure
+
+restaurant-website/
+│── wp-content/
+│   ├── themes/   # Custom/modified theme files
+│   ├── plugins/  # Plugins used for reservation, contact form etc.
+│── wp-admin/     # Admin dashboard files
+│── wp-includes/  # Core WordPress files
+│── index.php     # Main entry point
+│── style.css     # Theme styling
+│── README.md     # Project documentation
+
+
+
+
+
