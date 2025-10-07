@@ -62,7 +62,6 @@ restaurant-website/
 Contributions are welcome!
 
 Fork the repo
-
 Create a feature branch (feature-new-section)
 
 Submit a Pull Request
