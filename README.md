@@ -18,8 +18,8 @@ This project is designed as a portfolio-ready WordPress site to demonstrate skil
 
 ## 🛠️ Tech Stack  
 
-- **WordPress** (CMS)  
-- **PHP** (backend for WordPress)  
+ **WordPress** (CMS)  
+ **PHP** (backend for WordPress)  
 - **HTML, CSS, JavaScript** (custom styling & interactivity)  
 - **Elementor / Theme Builder** (for design customization)  
 - **MySQL** (database for WordPress)  
