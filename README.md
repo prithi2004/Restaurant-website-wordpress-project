@@ -12,7 +12,7 @@ This project is designed as a portfolio-ready WordPress site to demonstrate skil
  📅 **Reservation System** – Online table booking form  
  📍 **Contact Page** – Location map, opening hours, and contact form  
  📱 **Responsive Design** – Mobile-friendly and cross-browser compatible  
-- 🎨 **Custom Styling** – Modified theme and plugins for a unique look  
+ 🎨 **Custom Styling** – Modified theme and plugins for a unique look  
 
 ---
 
