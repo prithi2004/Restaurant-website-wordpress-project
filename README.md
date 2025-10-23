@@ -7,7 +7,7 @@ This project is designed as a portfolio-ready WordPress site to demonstrate skil
 
 ## ✨ Features  
 
-- 🏠 **Home Page** – Hero section with restaurant branding  
+🏠 **Home Page** – Hero section with restaurant branding  
 - 📖 **Menu Page** – Display dishes with prices & categories  
 - 📅 **Reservation System** – Online table booking form  
 - 📍 **Contact Page** – Location map, opening hours, and contact form  
