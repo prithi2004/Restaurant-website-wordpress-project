@@ -5,6 +5,8 @@ This project is designed as a portfolio-ready WordPress site to demonstrate skil
 
 ---
 
+
+
 ## ✨ Features  
 
 🏠 **Home Page** – Hero section with restaurant branding  
